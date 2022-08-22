@@ -1,0 +1,28 @@
+body{
+    background-color: #ddd;
+}
+
+.cuadrado{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    font-size: 32px;
+    color: burlywood;
+    text-align: center;
+    
+}  
+
+.rojo{
+background-color: red;
+
+}
+
+
+li{
+list-style: none;
+}
+
+
+.cuadradosContainer{
+    
+}
