@@ -110,3 +110,30 @@ li{
     margin-left:auto;
 
 }
+
+@media screen and (max-width:998px) {
+   /*  body{
+       background-color: red; 
+        }
+         */
+    #initialSection{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }    
+    
+    .fotoPerfil {
+        width: 120%;
+    }
+
+    #divDatosPersonales p{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+}
+    
