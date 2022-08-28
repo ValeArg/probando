@@ -132,8 +132,29 @@ li{
         flex-direction: row;
         align-items: center;
         justify-content: center;
-
     }
 
+    #divEstudios p{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+
+
+}
+
+    
+
+
+@media screen and (max-width: 390px){
+    #divDatosPersonales p{
+        display: none;
 }
     
+}
+    
+
+
